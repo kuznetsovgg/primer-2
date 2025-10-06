@@ -1,6 +1,6 @@
 # Вариант 6
-Cv = 15000
-Tv = 8
+Cv = 1000000
+Tv = 15
 
 # Контейнер расчета
 from sympy import symbols

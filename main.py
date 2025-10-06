@@ -1,3 +1,4 @@
+#  lox Kuznetsov
 # Вариант 6
 Cv = 1000000
 Tv = 15
